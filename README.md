@@ -1,0 +1,1 @@
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fboard%2F31ubjGVmluozgcJJnTdrO1%2FText-to-Image-Tools-Comparision-17Aug2024%3Ft%3DsPVN8w2tpFbN9FP7-1" allowfullscreen></iframe>
