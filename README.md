@@ -12,9 +12,7 @@
 ### Source: Individual websites
 #### Date: 17-Aug-2024
 
-<iframe src="https://github.com/olabs-ai/genai-observations/blob/main/gpu_pricing.html" width="90%" height="600px"></iframe>
-
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="90%" height="600" src="https://github.com/olabs-ai/genai-observations/blob/main/gpu_pricing.html" allowfullscreen></iframe>
 
 
 # Viz
@@ -22,4 +20,4 @@
 ### Source: Individual websites
 #### Date: 17-Aug-2024
 
-<iframe src="https://github.com/olabs-ai/genai-observations/blob/main/semiconductor_companies_india2.html" width="90%" height="600px"></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="90%" height="600" src="https://github.com/olabs-ai/genai-observations/blob/main/semiconductor_companies_india2.html" allowfullscreen></iframe>
