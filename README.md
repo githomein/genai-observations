@@ -1,5 +1,5 @@
 # Viz
-## Various image-to-text tools compared
+## Various state-of-the-art frontier Text-to-Image tools compared
 ### Source: Individual websites or  HuggingFace
 #### Date: 17-Aug-2024
 
