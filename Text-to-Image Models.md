@@ -1,5 +1,5 @@
 # Table
-## Image-To-Text Models
+## Text-To-Image Models
 ### Source: Various (used SearchGPT)
 ### As on : 18-Aug-2024
 
@@ -24,7 +24,7 @@
 |Perchance AI|Sweden|Perchance AI|Not Publicly Disclosed|Open Source|Not Available|Yes|Yes (LoRA)|Mixed datasets|Latent Diffusion Model|1024x1024|~6s|Free (Open Source)|Yes|Perchance AI|
 
 # Table
-## Image-To-Text Training Dataset
+## Text-To-Image Training Dataset
 ### Source: Various (used SearchGPT)
 ### As on : 18-Aug-2024
 
