@@ -23,9 +23,10 @@
 |Rinna|Japan|Microsoft Japan|Not Publicly Disclosed|Closed Source|Not Available|No|No|Proprietary|Transformer|1024x1024|~8-10s|Not Publicly Available|No|Rinna|
 |Perchance AI|Sweden|Perchance AI|Not Publicly Disclosed|Open Source|Not Available|Yes|Yes (LoRA)|Mixed datasets|Latent Diffusion Model|1024x1024|~6s|Free (Open Source)|Yes|Perchance AI|
 
-
-
-
+# Table
+## Image-To-Text Training Dataset
+### Source: Various (used SearchGPT)
+### As on : 18-Aug-2024
 
 |Dataset Name|Source/Organization|Description|Size (Images)|Languages|Licensing|Public Availability|Preprocessing Required|Metadata (Text/Image)|Image Resolution|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
