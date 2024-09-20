@@ -81,7 +81,10 @@
 - Balanced approach to AI adoption and regulation
 
 ## Key Considerations
-[Previous points remain, with these additions:]
-- The potential for rogue AGI/ASI poses existential risks to humanity, necessitating robust alignment and control measures
+- The cost of intelligence is plummeting, but the value of human ingenuity in applying AI will skyrocket [Schelling AI, p.4]
+- AI Atlantis: A digital realm with 100 billion AI agents and a billion robots, all as competent as university graduates [Schelling AI, p.1]
+- The global generative AI market is projected to reach $1.3 trillion by 2032 [Schelling AI, p.2]
+- AI automation puts 300 million full-time jobs at risk, but also creates new AI-related roles [Schelling AI, p.4]
+- The power to shape our AI-driven future is in our hands, requiring informed and proactive engagement [Schelling AI, p.11-12]- The potential for rogue AGI/ASI poses existential risks to humanity, necessitating robust alignment and control measures
 - Adversarial use of AI technologies could lead to unprecedented cybersecurity threats, disinformation campaigns, and privacy invasions
 - International cooperation and governance are crucial to mitigate risks and ensure responsible AI development
