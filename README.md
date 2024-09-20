@@ -1,4 +1,4 @@
-# ==============================================================================================================================================================
+# =========================================================
 # If LLMs and GenAI Continue to Advance Rapidly
 
 [Previous sections remain the same]
@@ -90,7 +90,7 @@
 - Adversarial use of AI technologies could lead to unprecedented cybersecurity threats, disinformation campaigns, and privacy invasions
 - International cooperation and governance are crucial to mitigate risks and ensure responsible AI development
 
-# ==============================================================================================================================================================
+# =========================================================
 
 # Viz: Various state-of-the-art frontier Text-to-Image tools compared
 ### Source: Individual websites or HuggingFace
